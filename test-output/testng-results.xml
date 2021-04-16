@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch the browser]]>
+    </line>
+    <line>
+      <![CDATA[Enter the url]]>
+    </line>
+    <line>
+      <![CDATA[Verify the expected title]]>
+    </line>
+    <line>
+      <![CDATA[Enter the details in search box]]>
+    </line>
+    <line>
+      <![CDATA[Click on Enter button]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to Resources Page ]]>
+    </line>
+    <line>
+      <![CDATA[Click on Resources link ]]>
+    </line>
+    <line>
+      <![CDATA[Scroll the web page]]>
+    </line>
+    <line>
+      <![CDATA[Enter the details in Resource page]]>
+    </line>
+    <line>
+      <![CDATA[Scroll the web page]]>
+    </line>
+    <line>
+      <![CDATA[Click on  Six_Steps for data-driven ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-16T18:26:12Z" name="Default suite" finished-at="2021-04-16T18:26:46Z" duration-ms="34182">
+    <groups>
+    </groups>
+    <test started-at="2021-04-16T18:26:12Z" name="Default test" finished-at="2021-04-16T18:26:46Z" duration-ms="34182">
+      <class name="com.infor.test.InforTest">
+        <test-method signature="verify_Webinar()[pri:0, instance:com.infor.test.InforTest@429bffaa]" started-at="2021-04-16T18:26:12Z" name="verify_Webinar" finished-at="2021-04-16T18:26:46Z" duration-ms="34159" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch the browser]]>
+            </line>
+            <line>
+              <![CDATA[Enter the url]]>
+            </line>
+            <line>
+              <![CDATA[Verify the expected title]]>
+            </line>
+            <line>
+              <![CDATA[Enter the details in search box]]>
+            </line>
+            <line>
+              <![CDATA[Click on Enter button]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to Resources Page ]]>
+            </line>
+            <line>
+              <![CDATA[Click on Resources link ]]>
+            </line>
+            <line>
+              <![CDATA[Scroll the web page]]>
+            </line>
+            <line>
+              <![CDATA[Enter the details in Resource page]]>
+            </line>
+            <line>
+              <![CDATA[Scroll the web page]]>
+            </line>
+            <line>
+              <![CDATA[Click on  Six_Steps for data-driven ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_Webinar -->
+      </class> <!-- com.infor.test.InforTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
